@@ -33,9 +33,9 @@
   },
   "scripts": {
     "start": "craco start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -51,5 +51,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-app-rewired": "^2.2.1"
   }
 }
