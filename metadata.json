@@ -1,0 +1,58 @@
+{
+  "name": "solana hacker house",
+  "symbol": "SHH",
+  "description": "solana hacker house baybeee",
+  "seller_fee_basis_points": 250,
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ3WuuyMgG4exnBvrV3tZt4BMkG42R52kFhbJNegZcxxE",
+  "external_url": "https://solana-tweeter.netlify.app",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "collection": {
+    "name": "solana hacker house",
+    "family": "solana"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7RbSFxGexEpU57Ywk26JoZh9ATSR6LUZNuD2SBfLffs5",
+        "share": 100
+      }
+    ]
+  }
+}

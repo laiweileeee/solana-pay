@@ -36,7 +36,7 @@ import {
   WalletMultiButton,
   WalletDisconnectButton,
 } from '@solana/wallet-adapter-react-ui';
-import { Greet } from './Greet';
+import { Pay } from './Pay';
 require('@solana/wallet-adapter-react-ui/styles.css');
 
 function WalletNotConnected() {
@@ -76,6 +76,7 @@ function useSolanaAccount() {
 
   useEffect(() => {
     if (publicKey) {
+      clearInterval()
       setInterval(init, 1000);
     }
   }, [init, publicKey]);
@@ -151,7 +152,7 @@ function Home() {
                     </Button>
                   </VStack>
                   <VStack>
-                    <Greet />
+                    <Pay/>
                   </VStack>
                 </SimpleGrid>
               )}

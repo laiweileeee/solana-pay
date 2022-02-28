@@ -138,7 +138,7 @@ export function Greet() {
           />
         </FormControl>
         <HStack>
-          <Button onClick={greetYourself}>Greet Yourself</Button>
+          <Button onClick={greetYourself}>Hi Yourself</Button>
         </HStack>
       </VStack>
       <VStack width="full" spacing={8} borderRadius={10} borderWidth={2} p={10}>
