@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![](https://github.com/laiweileeee/solana-pay/blob/main/solana%20pay.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
