@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Solana Pay Demo made during Hacker House
 
 ![](https://github.com/laiweileeee/solana-pay/blob/main/solana%20pay.gif)
 
